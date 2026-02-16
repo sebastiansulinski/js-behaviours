@@ -1,5 +1,8 @@
 # Js Behaviours
 
+> **Warning**
+> This package is deprecated and no longer maintained.
+
 Set of methods representing post form submission behaviour.
 To accompany [@ssdcode/vue-form](https://github.com/sebastiansulinski/vue-form) v2.
 
